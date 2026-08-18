@@ -1,7 +1,7 @@
 :root {
   --warna-utama: #1f4e79;
-  --warna latar: #f2f2f2;
---warna teks: #222222;
+  --warna-latar: #f2f2f2;
+--warna-teks: #222222;
 --fount-utama: Calibri, Arial, sans-serif;
 }
 * { box-sizing: border-box; }
