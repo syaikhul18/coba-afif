@@ -1,0 +1,20 @@
+:root {
+  --warna-utama: #1f4e79;
+  --warna latar: #f2f2f2;
+--warna teks: #222222;
+--fount-utama: Calibri, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: var(--fount-utama);
+  background-color: var(--warna-latar);
+ color: var(--warna-teks);
+ line-height: 1.6;
+}
+header {
+ background-color: var(--warna-utama);
+ color: #ffffff;
+ text-align: center;
+ padding: 40px 20px;
+}
